@@ -78,3 +78,7 @@ nav ul {
     margin: 10px;
     width: 300px;
 }
+
+.button:hover {
+    background-color: lightblue;
+}
