@@ -16,7 +16,7 @@ body {
     padding: 0;
 }
 
-ul {
+nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -66,4 +66,15 @@ ul {
     height: auto;
     max-width: 100%;
     width: 400px;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px;
+    width: 300px;
 }
